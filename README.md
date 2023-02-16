@@ -15,7 +15,7 @@ This is a CLI for the Datapod project.
 Go to the dektop and install globally
 
 ```bash
-  npm install dpod -g
+  npm i -g dpod
 ```
 
 start cli with command
