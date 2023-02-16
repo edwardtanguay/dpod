@@ -1,6 +1,6 @@
 {
   "name": "dpod",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "description": "CLI for Datapod",
   "main": "index.js",
