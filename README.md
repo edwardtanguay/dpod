@@ -2,7 +2,7 @@
 
 This will be the CLI command for my [Datapod project](https://github.com/edwardtanguay/dpodreactcore) which I will begin again in March 2023 based on Next.js 13 instead of React.
 
-If you are looking for a way to create my [starter sites](https://starters.tanguay.eu) via command line, see my NPM package [etstarter](https://www.npmjs.com/package/etstarter)
+If you are looking for a way to create my [starter sites](https://starters.tanguay.eu) via command line, see my NPM package [etstarter](https://www.npmjs.com/package/etstarter).
 
 ## Badges
 
